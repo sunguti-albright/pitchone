@@ -1,0 +1,5 @@
+Hello {{user.username}}
+Welcome to One Minute Pitches
+We have just seen you have signed up for our application and want to welcome you to the family!!
+We are glad you signed up to Pitch
+Pitch your Pitch to get the highest vote
